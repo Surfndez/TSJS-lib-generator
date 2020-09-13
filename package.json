@@ -14,7 +14,7 @@
     "@types/webidl2": "^10.2.1",
     "cpx": "^1.5.0",
     "jsdom": "^11.11.0",
-    "node-fetch": "^2.1.1",
+    "node-fetch": "^2.6.1",
     "print-diff": "^0.1.1",
     "typescript": "next",
     "webidl2": "^13.0.2"
